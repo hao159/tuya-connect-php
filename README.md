@@ -1,5 +1,5 @@
 # tuya-connect-php
-Sample connect Tuya clound
+Sample connect Tuya cloud
 
 ### Get started
 [Tuya IoT Development Platform : Quick start](https://developer.tuya.com/en/docs/iot/quick-start1?id=K95ztz9u9t89n)
